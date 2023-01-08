@@ -1,8 +1,6 @@
 '''
 Pelumi Tayo-Orisadare
-ptayoorisada@wesleyan.edu
-COMP 112 Section 02
-Project Proposal
+pelumi.tayoorisadare@gmail.com
 12.01.2021
 '''
 
