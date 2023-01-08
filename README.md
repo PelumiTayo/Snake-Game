@@ -4,4 +4,4 @@ Uses python and turtle to create the popular snake game. In order to play this g
 
 The **GOAL** of this game is to eat the food on the map while keeping the snake's head away from its body as well as the walls surrounding the snake as it gets bigger. 
 
-This project utilizes functions, global and local variables, Python's module, turtle.
+This project utilizes functions, global and local variables,  and Python's module, turtle.
